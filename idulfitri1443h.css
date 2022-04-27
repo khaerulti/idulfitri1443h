@@ -140,7 +140,7 @@ img {
   height: 400px;
 }
 .cover {
-  background-image: url(img/ibukades.jpeg);
+  background-image: url(ibukades.jpeg);
   background-size: cover;
   background-position: 25px 50px;
   background-attachment: fixed;
